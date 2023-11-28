@@ -22,7 +22,9 @@
 
 ## Output:
 ![Screenshot 2023-11-28 155216](https://github.com/PuliNagaNeeraj/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849173/c315f04e-64de-4ee8-ae61-59425f391b67)
+
 ![image](https://github.com/PuliNagaNeeraj/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849173/08cdca63-6107-475f-bd4a-b3beac01a4a1)
+
 ![image](https://github.com/PuliNagaNeeraj/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138849173/8368f276-3932-48dd-af36-e85031150e2a)
 
 ### Name: PULI NAGA NEERAJ
